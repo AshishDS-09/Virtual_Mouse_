@@ -1,0 +1,14 @@
+# Ignore Python virtual environment
+.ve/
+ve/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore large files
+*.dll
+*.pyd
+*.so
+*.whl
