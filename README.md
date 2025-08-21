@@ -27,7 +27,7 @@ The model is built with OpenCV, Mediapipe, and PyAutoGUI, and allows seamless cu
 
 ## 📂 Project Structure
 
-- virtual_mouse.py # Main script for gesture recognition and pointer control
+- main.py # Main script for gesture recognition and pointer control
 - requirements.txt # Python dependencies
 - README.md # Project description
 
